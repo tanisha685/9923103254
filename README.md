@@ -8,7 +8,11 @@ The application fetches notifications from the provided protected API, prioritiz
 
 
 
-https://github.com/user-attachments/assets/e3614fc8-0fc6-47d4-8c24-4dc127f0497f
+https://github.com/user-attachments/assets/f8d9ffd5-67b0-43f5-8a6a-c4200efba912
+
+
+
+
 
 
 
